@@ -1,6 +1,3 @@
-# [**MARTA REITMAJER**](http://martareitmajer.com/)
-![Image](https://media-exp1.licdn.com/dms/image/C4E03AQFgBTAnm1GN0w/profile-displayphoto-shrink_800_800/0/1645331406828?e=1658361600&v=beta&t=mIocb7YwHv7fmQVUYEHLlzWgyOirjc5L-aHInX4sZa8)
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mreitmaj/mreitmaj.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
