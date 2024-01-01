@@ -3,8 +3,11 @@
 
 <html>
   <head>
-    <script src="src/script.js">
-    <img src="https://raw.githubusercontent.com/realm/realm.github.io/master/assets/img/favicons/favicon-120x120.png">
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    
+<img src="https://raw.githubusercontent.com/realm/realm.github.io/master/assets/img/favicons/favicon-120x120.png">
+  
   </head>
   <body>
     <p>
