@@ -1,36 +1,46 @@
 
-!# 
-
+<!DOCTYPE html>
 <html>
-  <head>
+<head>
+  <title>REALMAREITCH CO.</title>
+  <link rel="stylesheet" href="/styles.css">
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    
+  <script type="text/javascript" src="/script.js"></script>
+
+  <script type="text/javascript">
+  //<![CDATA[
+  let i = 10;
+  if (i < 5) {
+    // some code
+    }
+  //]]>
+  </script>
+
 <img src="https://raw.githubusercontent.com/realm/realm.github.io/master/assets/img/favicons/favicon-120x120.png">
   
-  </head>
-  <body>
-    <p>
-      Corpus Locus und en Cristie. Shallom farve und ich bin Vabb quo ein, twie, drei, el... Faravodz dust bin Scheibe! Vall, vallarkiye, Don Parian.
-    </p>
-    <p>
-   <tab>
-     [...] Una figura es mucho importante porque Usted es poquito #%@$?!. Es tambien bueno. 
-     [...] Ocho papas fritas con futbolera torta es muy buena. Necesito la leche tamdien. Tu gusta dias con el sol? Noches con el mucho dinero ...? Porque no los dos?!
-   </tab>
-    </p>
-  </body>
-  <footer> 
-    🔲 
-    <i>
-      Copyright: REALmmarreitCH Co.
-      M. Reitmajer
-    </i>
-    🔲
-  </footer>
+</head>
+<body>
+  <h1>Attention:</h1>
+  <p>
+  Corpus Locus und en Cristie. Shallom farve und ich bin Vabb quo ein, twie, drei, el... Faravodz dust bin Scheibe! Vall, vallarkiye, Don Parian.
+  </p>
+  <p>
+  <tab>
+      [...] Una figura es mucho importante porque Usted es poquito #%@$?!. Es tambien bueno. 
+      [...] Ocho papas fritas con futbolera torta es muy buena. Necesito la leche tamdien. Tu gusta dias con el sol? Noches con el mucho dinero ...? Porque no los dos?!
+  </tab>
+  </p>
+</body>
+<footer> 
+  🔲 
+  <i>
+        Copyright: REALmmarreitCH Co.
+        M. Reitmajer
+  </i>
+  🔲
+</footer>
 </html>
 '''
-
 
 # [**MARTA REITMAJER**](http://martareitmajer.com/)
 
@@ -51,10 +61,8 @@
 [Link](url) and ![Image](src)
 
 
-
-
-![Image-Repo](src/img.png)
-[###**✴🌌✴️**###](https://martareitmajer.com/index.html)
+![Image-01](/img.png)
+[##**✴🌌✴️**##](https://martareitmajer.com/index.html)
 
 <~~.*.~~>
 _Testing 01/01/2024_
@@ -66,16 +74,14 @@ _Testing 01/01/2024_
 @ Hello there!
 
 
-### **REALM mar Reitch:
+# **REALM mar Reitch:
 ## _RealmarReitch_**
 ## by **Marta Reitmajer** 🖤
-# 'Portfolio 
-& 
-# "_Stardust Art_"'
+### 'Portfolio & "_Starlight Art_"'
 
-
+'
 sMartART-A+
 s_martA_rt_A+_
-
+'
 
 '''
