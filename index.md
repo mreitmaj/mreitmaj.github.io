@@ -1,8 +1,9 @@
-'''
-!#
+
+!# 
 
 <html>
   <head>
+    <script src="src/script.js">
     <img src="https://raw.githubusercontent.com/realm/realm.github.io/master/assets/img/favicons/favicon-120x120.png">
   </head>
   <body>
