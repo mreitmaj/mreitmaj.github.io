@@ -20,12 +20,5 @@
 
 
 ![Image-01](/img.png)
-[##**✴🌌✴️**##](https://martareitmajer.com/index.html)
+[martareitmajer.com](https://martareitmajer.com/index.html)
 
-
-# **REALM mar Reitch:
-## _RealmarReitch_**
-## by **Marta Reitmajer** 🖤
-### 'Portfolio & "_Starlight Art_"'
-
-'''
