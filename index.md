@@ -14,8 +14,8 @@
 
 **Bold** and _Italic_ and `Code` text
 
-![Image](/IMG_8673.jpeg)
+![Logo-black-square](/IMG_8673.jpeg)
 
 
-![Image-01](/IMG_8694.jpeg)
+![Butterfly](/IMG_8694.jpeg)
 [martareitmajer.com](https://martareitmajer.com/index.html)
