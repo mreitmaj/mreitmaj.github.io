@@ -1,21 +1,12 @@
 # [**MARTA REITMAJER**](http://martareitmajer.com/)
-
-'
-# Header 1
-## Header 2
-### Header 3
-'
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-![Logo-black-square](/IMG_8673.jpeg)
+![Logo-signsture-squaredcircle](/IMG_8766.jpeg)
+![Logo-signature-squares](/IMG_8767.jpeg)
+![Logo-signature-circle](/IMG_8768.jpeg)
+![Logo-black-square](/IMG_8760.jpeg)
 
 
-![Butterfly](/IMG_8694.jpeg)
-[martareitmajer.com](https://martareitmajer.com/index.html)
+![design-banner](/IMG_8761.jpeg)
+[MR](https://martareitmajer.com/index.html)
+
+
+
