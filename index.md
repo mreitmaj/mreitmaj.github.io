@@ -1,12 +1,13 @@
 # [**MARTA REITMAJER**](http://martareitmajer.com/)
-![Logo-signsture-squaredcircle](/IMG_8766.jpeg)
-![Logo-signature-squares](/IMG_8767.jpeg)
-![Logo-signature-circle](/IMG_8768.jpeg)
-![Logo-black-square](/IMG_8760.jpeg)
+
+![Logo-MR-squares-white](/img/Logo_MR_squares-white.png)
+![Logo-MR-circlesquare-white](/img/Logo_MR_circlesquare-white.png)
+![Logo-MR-circle-white](/img/Logo_MR_circle-white.png)
+![Logo-MR-overlap-circle-white](/img/Logo-MR-overlap-circle-white.png)
+![Logo](/img/logo.png)
 
 
-![design-banner](/IMG_8761.jpeg)
-[MR](https://martareitmajer.com/index.html)
+[![Banner](/img/Banner_MR.png)](https://martareitmajer.com/index.html)
 
 
 
